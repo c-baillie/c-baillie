@@ -7,12 +7,14 @@ Collection of themes, presentations, code and ideas. Many of which have been bor
 
 | QI Methods                                                                                                                                        | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| [SPC](https://c-baillie.github.io/rules/)| Statistical Process Control (SPC) Charts Rules |
-|[DataGuide](https://c-baillie.github.io/DataGuide) | The Health Care Data Guide: Outline| 
+| [SPC](https://c-baillie.github.io/rules/)| Statistical Process Control (SPC) Charts Rules                                                      |
+|[DataGuide](https://c-baillie.github.io/DataGuide) | The Health Care Data Guide: Outline                                                        | 
+
 
 | Rotations                                                                                                                                       | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| [Gen Med 1](https://c-baillie.github.io/med1) | Gen Med 1: Articles |
+| [Gen Med 1](https://c-baillie.github.io/med1) | Gen Med 1: Articles                                                                            |
+
 
 | Borrowed/Coded                                                                                                                                      | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
