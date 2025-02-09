@@ -2,6 +2,9 @@
 
 Collection of themes, presentations, code and ideas. Many of which have been borrowed and modified
 
+## GSlides Integration
+
+[Medicine](https://docs.google.com/presentation/d/e/2PACX-1vSEOl799T-PCAQyMmYVAwB9_d0iDkslyIUFhLj3GfsY0jRrnWwOlu8O7MFDOJN1Y_zZUzJPINlByobB/pub?start=true&loop=true&delayms=60000)
 
 ## Index
 
